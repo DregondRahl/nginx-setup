@@ -1,0 +1,9 @@
+deb http://mirrors.buyvm.net/debian/ squeeze main contrib non-free
+deb http://mirrors.buyvm.net/debian/ squeeze-updates main contrib non-free
+deb http://security.debian.org/ squeeze/updates main contrib non-free
+
+deb http://packages.dotdeb.org stable all
+deb-src http://packages.dotdeb.org stable all
+
+deb http://repo.percona.com/apt squeeze main
+deb-src http://repo.percona.com/apt squeeze main
